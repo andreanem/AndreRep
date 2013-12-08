@@ -146,20 +146,33 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Teatro dell'Oppresso",
-          "id": 35,
+        "4": {
+          "title": "Zoopa - Sito italiano che fornisce una serie di bandi di concorso con premi in denaro (aperto a tutti, bisogna registrarsi per poter accedere ai contenuti)",
+          "id": 39,
           "attr": {
             "style": {
               "background": "#ffff99"
             },
             "attachment": {
               "contentType": "text/html",
-              "content": "<a href=\"http://www.utopie.it/formazione/teatro_dell'oppresso.htm\">http://www.utopie.it/formazione/teatro_dell'oppresso.htm</a>"
+              "content": "<a href=\"http://zooppa.com/it-it\">http://zooppa.com/it-it</a>"
             }
           }
         },
-        "2": {
+        "5": {
+          "title": "Kickstarter",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.kickstarter.com/hello?ref=nav\">http://www.kickstarter.com/hello?ref=nav</a><div><a href=\"http://it.wikipedia.org/wiki/Kickstarter#Modello\">http://it.wikipedia.org/wiki/Kickstarter#Modello</a><br></div>"
+            }
+          }
+        },
+        "3.5": {
           "title": "I 10 migliori progetti di crowdfunding del 2011",
           "id": 36,
           "attr": {
@@ -173,7 +186,7 @@
           },
           "ideas": {}
         },
-        "3": {
+        "3.75": {
           "title": "Pendolibro",
           "id": 38,
           "attr": {
@@ -183,6 +196,19 @@
             "attachment": {
               "contentType": "text/html",
               "content": "<a href=\"http://www.foundcomunicazione.com/ITA/blog/arriva-il-pendolibro-2013,-un-progetto-sperimentale-di-crowdsourcing-ideato-ed-editato-da-libreriamo-publishing.aspx\">http://www.foundcomunicazione.com/ITA/blog/arriva-il-pendolibro-2013,-un-progetto-sperimentale-di-crowdsourcing-ideato-ed-editato-da-libreriamo-publishing.aspx</a>"
+            }
+          }
+        },
+        "1.75": {
+          "title": "Teatro dell'Oppresso",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.utopie.it/formazione/teatro_dell'oppresso.htm\">http://www.utopie.it/formazione/teatro_dell'oppresso.htm</a>"
             }
           }
         }
