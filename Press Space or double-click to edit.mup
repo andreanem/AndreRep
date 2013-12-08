@@ -110,6 +110,19 @@
                   }
                 }
               }
+            },
+            "5": {
+              "title": "DEFINIZIONE DI ESTELLES Y GONZALES",
+              "id": 33,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://www.crowdsourcing-blog.org/wp-content/uploads/2012/02/Towards-an-integrated-crowdsourcing-definition-Estell%C3%A9s-Gonz%C3%A1lez.pdf\">http://www.crowdsourcing-blog.org/wp-content/uploads/2012/02/Towards-an-integrated-crowdsourcing-definition-Estell%C3%A9s-Gonz%C3%A1lez.pdf</a>"
+                },
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
             }
           }
         }
@@ -121,6 +134,57 @@
         "attachment": {
           "contentType": "text/html",
           "content": "<a href=\"http://it.wikipedia.org/wiki/Crowdsourcing#cite_note-4\">http://it.wikipedia.org/wiki/Crowdsourcing#cite_note-4</a>"
+        }
+      }
+    },
+    "-1": {
+      "title": "Esempi",
+      "id": 34,
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Teatro dell'Oppresso",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.utopie.it/formazione/teatro_dell'oppresso.htm\">http://www.utopie.it/formazione/teatro_dell'oppresso.htm</a>"
+            }
+          }
+        },
+        "2": {
+          "title": "I 10 migliori progetti di crowdfunding del 2011",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.wikiculture.net/2011/12/30/i-10-migliori-progetti-in-crowdsourcing-del-2011/\">http://www.wikiculture.net/2011/12/30/i-10-migliori-progetti-in-crowdsourcing-del-2011/</a>"
+            }
+          },
+          "ideas": {}
+        },
+        "3": {
+          "title": "Pendolibro",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.foundcomunicazione.com/ITA/blog/arriva-il-pendolibro-2013,-un-progetto-sperimentale-di-crowdsourcing-ideato-ed-editato-da-libreriamo-publishing.aspx\">http://www.foundcomunicazione.com/ITA/blog/arriva-il-pendolibro-2013,-un-progetto-sperimentale-di-crowdsourcing-ideato-ed-editato-da-libreriamo-publishing.aspx</a>"
+            }
+          }
         }
       }
     }
