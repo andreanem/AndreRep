@@ -195,7 +195,7 @@
         },
         "attachment": {
           "contentType": "text/html",
-          "content": "<a href=\"http://it.wikipedia.org/wiki/Crowdsourcing#cite_note-4\">http://it.wikipedia.org/wiki/Crowdsourcing#cite_note-4</a>"
+          "content": "<a href=\"http://it.wikipedia.org/wiki/Crowdsourcing#cite_note-4\" target=\"_blank\">http://it.wikipedia.org/wiki/Crowdsourcing</a>"
         }
       }
     },
